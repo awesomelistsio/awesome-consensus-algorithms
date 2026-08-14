@@ -101,6 +101,7 @@
 - **[Avalanche Consensus: Snow to Avalanche (2018)](https://ipfs.io/ipfs/QmXjLK3siuSgf7BbmyQYktvF2PBddoDchk61ZW5q8w5TqU)** - The paper describing Avalanche consensus.
 
 ## Community and Forums
+- [Solana Token Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold, no external database, ready in 5 minutes.
 
 - **[Reddit: r/ConsensusAlgorithms](https://www.reddit.com/r/ConsensusAlgorithms/)** - A subreddit for discussions about consensus algorithms.
 - **[Discord: Blockchain Consensus Community](https://discord.gg/consensus)** - A Discord server for developers and researchers focused on consensus algorithms.
